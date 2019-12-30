@@ -1,0 +1,28 @@
+{
+  "name": "parcel-plugin-html-partials",
+  "version": "0.0.3",
+  "description": "Parcel plugin for using html partials.",
+  "author": "Ruben Kaiser <ruben@rubenkaiser.nl>",
+  "repository": "https://github.com/rubenkaiser/parcel-plugin-html-partials",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "node node_modules/eslint/bin/eslint.js src/*.js"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  },
+  "keywords": [
+    "parcel",
+    "plugin",
+    "html",
+    "partials",
+    "layouts"
+  ]
+}
