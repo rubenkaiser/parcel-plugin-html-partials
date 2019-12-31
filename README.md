@@ -17,6 +17,7 @@ You can use html partials in your regular html files by using the following synt
 The path should be relative to the file at hand. Check out the example project.
 
 # Release Notes
+ - 0.0.5 Released new version with reduced filesize
  - 0.0.4 Fix for partials in subfolders and added example project
  - 0.0.3 Changed docs with regards to path
  - 0.0.2 Added github url
