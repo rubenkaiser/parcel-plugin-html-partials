@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-html-partials",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Parcel plugin for using html partials.",
   "author": "Ruben Kaiser <ruben@rubenkaiser.nl>",
   "repository": "https://github.com/rubenkaiser/parcel-plugin-html-partials",
