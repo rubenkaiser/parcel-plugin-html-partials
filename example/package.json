@@ -1,0 +1,14 @@
+{
+  "name": "parcelhtmlpartialsexample",
+  "version": "1.0.0",
+  "description": "parcel html partials example",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3",
+    "parcel-plugin-html-partials": "0.0.4"
+  },
+  "author": "",
+  "license": "ISC"
+}

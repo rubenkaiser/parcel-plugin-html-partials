@@ -14,9 +14,10 @@ You can use html partials in your regular html files by using the following synt
 
 `@partial("someHtmlPartial.html")`
 
-The path should be relative to the file at hand
+The path should be relative to the file at hand. Check out the example project.
 
 # Release Notes
+ - 0.0.4 Fix for partials in subfolders and added example project
  - 0.0.3 Changed docs with regards to path
  - 0.0.2 Added github url
  - 0.0.1 First version 
