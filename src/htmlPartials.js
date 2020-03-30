@@ -10,7 +10,7 @@ class HtmlPartials extends HTMLAsset {
   parse(code) {
     const basePath = this.name.replace(this.basename, '');
   
-    const partialsRegex = /@partial\(["']([a-zA-Z\/\-_.]*)["']\)/g;
+    const partialsRegex = /@partial\(["']([a-zA-Z0-9\/\-_.]*)["']\)/g;
     let match;
 
     while ((match = partialsRegex.exec(code)) !== null) {
