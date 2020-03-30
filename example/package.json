@@ -7,8 +7,8 @@
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.3",
-    "parcel-plugin-html-partials": "0.0.4"
+    "parcel-plugin-html-partials": "0.0.6"
   },
-  "author": "",
+  "author": "Ruben Kaiser <ruben@rubenkaiser.nl>",
   "license": "ISC"
 }
