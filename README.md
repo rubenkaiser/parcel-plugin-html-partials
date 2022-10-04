@@ -2,6 +2,11 @@
 
 A transformer for the [Parcel bundler](https://parceljs.org/) that enables you to use html partials
 
+[![npm version](https://badge.fury.io/js/parcel-transformer-html-partials.svg)](https://badge.fury.io/js/parcel-transformer-html-partials)
+[![npm package](https://img.shields.io/npm/dm/parcel-transformer-html-partials.svg)](https://www.npmjs.com/package/parcel-transformer-html-partials)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 ## Install
 
 ```bash
