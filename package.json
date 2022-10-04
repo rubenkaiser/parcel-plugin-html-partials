@@ -13,9 +13,6 @@
   "scripts": {
     "lint": "node node_modules/eslint/bin/eslint.js src/*.js"
   },
-  "watchreload": {
-    "files": ["partials/**/*.html", "partials/**/*.htm"]
-  },
   "dependencies": {
     "parcel": "^2.7.0"
   },

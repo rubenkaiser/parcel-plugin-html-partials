@@ -6,7 +6,7 @@
     "start": "parcel *.html partials/*.html"
   },
   "devDependencies": {
-    "parcel-plugin-html-partials": "0.0.9"
+    "parcel-transformer-html-partial": "1.0.0"
   },
   "author": "Ruben Kaiser <ruben@rubenkaiser.nl>",
   "license": "ISC",
