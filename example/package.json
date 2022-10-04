@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "parcel html partials example",
   "scripts": {
-    "start": "parcel *.html partials/*.html"
+    "start": "parcel index.html"
   },
   "devDependencies": {
     "parcel-transformer-html-partials": "1.0.0"
